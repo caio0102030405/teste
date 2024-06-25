@@ -9,4 +9,3 @@ resultado = numero[0] + numero[1] + numero[2] + numero[3] + numero[4];
 
 Console.WriteLine(resultado);
 Console.WriteLine("Olá Mundo ");
-Console.WriteLine("QAZSW");
