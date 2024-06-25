@@ -8,4 +8,5 @@ for(int contador = 0; contador <5; contador+=1)
 resultado = numero[0] + numero[1] + numero[2] + numero[3] + numero[4];
 
 Console.WriteLine(resultado);
-Console.WriteLine("OLá Mundo ");
+Console.WriteLine("Olá Mundo ");
+Console.WriteLine("QAZSW");
